@@ -1,4 +1,4 @@
-%% This document performs the same estimating process as Ang-et-al-2006
+%% This document performs the same estimating process as Ang-et-al-2006.
 % To reproduce table 1 with concentration and sparsity  we can do the following:
 % Either regress the excess returns on market factor and NC or NS
 % (separately or together)
